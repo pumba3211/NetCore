@@ -3,3 +3,6 @@
 ################################################################################
 
 *.suo
+*.dll
+/InAndOut/InAndOut/bin/Debug/net5.0
+/InAndOut/InAndOut/obj
