@@ -6,3 +6,4 @@
 *.dll
 /InAndOut/InAndOut/bin/Debug/net5.0
 /InAndOut/InAndOut/obj
+/InAndOut/InAndOut/bin/Release/net5.0
